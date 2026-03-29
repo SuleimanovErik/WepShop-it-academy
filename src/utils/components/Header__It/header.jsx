@@ -12,7 +12,7 @@ const ItHeader = () => {
   
   return (
     <>
-    <div style={{height:'80px',display:'flex', justifyContent:'space-between',alignItems:'center', padding:'0 24px',boxShadow: '0px 4px 4px 0px #00000040'}}>
+    <div style={{height:'80px',display:'flex', justifyContent:'space-between',alignItems:'center', padding:'0 36px',boxShadow: '0px 4px 4px 0px #00000040'}}>
         <div>
             <img src={Logo}/>
         </div>
